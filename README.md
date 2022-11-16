@@ -1,7 +1,7 @@
 
 # Hi, I'm Harsh! 👋
 
-# Bikes-description
+# Gallery-description
 
 A brief description of what this project does and who it's for
 

@@ -8,8 +8,8 @@
     display: flex;
     justify-content: center;
     padding: 20px 0px;
-    background-color: rgb(255, 250, 250);
-    color: rgb(18, 18, 19);
+    background-color: rgb(29, 28, 28);
+    color: rgb(228, 228, 247);
     
 }
 .nav > h1{
@@ -17,14 +17,16 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1:hover{
-    color: rgb(19, 18, 18);
-    text-shadow: 3px 3px 8px #ec0404;
+    color: rgb(235, 226, 226);
+    text-shadow: 2px 2px 3px #ebd9d9;
 }
 .container{
     width: 100%;
-    height: 100vh;
-    background-color: rgba(224, 236, 232, 0.774);
+    height: auto;
+    background-color: rgba(128, 187, 167, 0.774);
 }
+
+
 
 
 .container-2{
